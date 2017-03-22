@@ -1,4 +1,4 @@
-var raining = false;
+revar raining = false;
 var cold = true;
 
 if (raining) {
